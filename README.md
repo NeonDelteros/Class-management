@@ -1,4 +1,4 @@
-# CS162-19APCS2-groupIEI
-Final Group Project - Computer Science II
+# Class management
+Final Group Project - Computer Science
 
 // A console-based application for University of Science database management
